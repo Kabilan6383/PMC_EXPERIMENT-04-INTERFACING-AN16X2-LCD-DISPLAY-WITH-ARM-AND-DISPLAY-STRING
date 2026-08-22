@@ -189,10 +189,10 @@ static void MX_GPIO_Init(void);
 void lcd_display(void)
 {
     Lcd_cursor(&lcd, 0, 1);
-    Lcd_string(&lcd, "Nitish Adavan D");
+    Lcd_string(&lcd, "KABILAN.P");
 
     Lcd_cursor(&lcd, 1, 1);
-    Lcd_string(&lcd, "212224240107");
+    Lcd_string(&lcd, "212224040145");
 }
 
 int main(void)
