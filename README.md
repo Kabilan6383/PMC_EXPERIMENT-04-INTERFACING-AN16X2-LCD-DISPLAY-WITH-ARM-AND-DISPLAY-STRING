@@ -1,4 +1,4 @@
-# EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM AND DISPLAY STRING
+<img width="1386" height="1135" alt="image" src="https://github.com/user-attachments/assets/b0ef43d6-f241-4562-be6a-9aee8c60f960" /># EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM AND DISPLAY STRING
 ## Name :KABILAN.P
 ## Roll no :212224040145
 ## Date of Experiment :18-08-2026
@@ -215,13 +215,16 @@ int main(void)
 
 <img width="1918" height="1116" alt="image" src="https://github.com/user-attachments/assets/2a5fc6e7-c0ac-46b1-8beb-e71c9f3f6be2" />
 
-<img width="1918" height="1120" alt="image" src="https://github.com/user-attachments/assets/7488e86f-c180-4bc4-a1c1-e6b9bb1bcc7d" />
+![Uploading image.png…]()
+
 
  
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
 
- <img width="1025" height="838" alt="image" src="https://github.com/user-attachments/assets/75d97fd9-b84a-410c-914a-60b922b8b070" />
+<img width="1386" height="1135" alt="image" src="https://github.com/user-attachments/assets/63d18291-b933-4fab-b0bf-60081b19e0b9" />
+
+
 
  
 ## Result :
