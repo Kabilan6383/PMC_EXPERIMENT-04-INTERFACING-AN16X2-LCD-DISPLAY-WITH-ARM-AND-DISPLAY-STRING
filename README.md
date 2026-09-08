@@ -1,4 +1,4 @@
-<img width="1386" height="1135" alt="image" src="https://github.com/user-attachments/assets/b0ef43d6-f241-4562-be6a-9aee8c60f960" /># EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM AND DISPLAY STRING
+# EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM AND DISPLAY STRING
 ## Name :KABILAN.P
 ## Roll no :212224040145
 ## Date of Experiment :18-08-2026
